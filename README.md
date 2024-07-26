@@ -151,7 +151,7 @@ This PowerShell script checks the connectivity of proxies listed in a file to se
 
 **Download the Executable:**
 
-<a href="https://github.com/username/repository/releases/latest">
+<a href="https://github.com/hy011121/PxChk/releases/tag/Download">
     <img src="https://github.com/user-attachments/assets/4f3a403f-8a45-417d-be60-84cb1f1b59b7" width="50" alt="Windows" /> 
 </a>
 
